@@ -1,5 +1,11 @@
 # fact_triple_extraction
 
+## 环境
+
+- python3
+
+- pip install pyltp
+
 [模型下载]( http://pan.baidu.com/share/link?shareid=1988562907&uk=2738088569)，放到model目录下
 
 
